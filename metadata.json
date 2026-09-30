@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Remix Remix: BPM Engineering RAP Automation System",
+  "description": "BPM Engineering RAP Automation System - preliminary project costing and BOQ matching for PT Bestindo Putra Mandiri",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
